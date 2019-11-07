@@ -9,7 +9,7 @@ import javax.persistence.Id;
 @Entity
 public class Usuario {
  //MVC
-    //Modelo
+    //Modelo     DAO = data acess object
     //Visao
     //Controle
     @Id
